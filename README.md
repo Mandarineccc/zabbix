@@ -42,7 +42,10 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1]([ссылка на скриншот 1](https://github.com/Mandarineccc/zabbix/blob/main/заб.png))`
+[ссылка на скриншот 1](https://github.com/Mandarineccc/zabbix/blob/main/заб.png)
+[ссылка на скриншот 2](https://github.com/Mandarineccc/zabbix/blob/main/заб2.png)
+[ссылка на скриншот 3](https://github.com/Mandarineccc/zabbix/blob/main/забик3.png)
+
 
 
 ---
@@ -67,7 +70,10 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+[ссылка на скриншот 1](https://github.com/Mandarineccc/zabbix/blob/main/агент%201.png)
+[ссылка на скриншот 2](https://github.com/Mandarineccc/zabbix/blob/main/2%20машина.png)
+[ссылка на скриншот 3](https://github.com/Mandarineccc/zabbix/blob/main/данные%201м.png)
+[ссылка на скриншот 4](https://github.com/Mandarineccc/zabbix/blob/main/данные%202м.png)
 
 
 ---
